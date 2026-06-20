@@ -1,5 +1,17 @@
+
 body{
-    background-color: black;
+    /* background-color: black; */
+    background-image: url('../images/sky.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+.a-1{
+    background-color: red;
+    padding-top: 20px;
+    padding-bottom: 10px;
 }
 .h1{
     color: wheat;
@@ -23,6 +35,16 @@ details{
     color:red;
     font-family: calibri;
 }
-p{
+/* p{
+    text-align: right;
     color: wheat;
+} */
+.p-h3{
+    text-align: right;
+    color: black;
+    background-color:skyblue;
+}
+.h3-2{
+    color: whitesmoke;
+    font-family: calibri;
 }
